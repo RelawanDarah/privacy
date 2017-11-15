@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Relawan Darah Terms Of Service
 
-You can use the [editor on GitHub](https://github.com/RelawanDarah/privacy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Relawan Darah Inc. ( “our,” “we,” or “us”) provides platform and other services to users around the world. Please read our Terms of Service so you understand what’s up with your use of Relawan Darah. You agree to our Terms of Service (“Terms”) by installing, accessing, or using our apps, services, features, software, or website (together, “Services”).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Privacy Policy
 
-### Markdown
+Relawan Darah cares about your privacy. Privacy Policy describes our information (including message) practices, including the types of information we receive and collect from you and how we use and share this information. You agree to our data practices, including the collection, use, processing, and sharing of your information as described in our Privacy Policy, as well as the transfer and processing of your information to the United States and other countries globally where we have or use facilities, service providers, or partners, regardless of where you use our Services. You acknowledge that the laws, regulations, and standards of the country in which your information is stored or processed may be different from those of your own country.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Information We Collect
+We receives or collects information when we operate and provide our Services, including when you install, access, or use our Services.
 
-```markdown
-Syntax highlighted code block
+- Your Account Information. You provide your mobile phone number to create an account. You confirm you are authorized to provide us such numbers. You may also add other information to your account, such as a profile name, profile picture, and status message.
 
-# Header 1
-## Header 2
-### Header 3
+### Keeping Your Account Secure
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RelawanDarah/privacy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+You are responsible for keeping your device and your account safe and secure, and you must notify us promptly of any unauthorized use or security breach of your account or our Services.
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you have questions about our Privacy Policy, please contact us with email to relawandarah12@google.com.
